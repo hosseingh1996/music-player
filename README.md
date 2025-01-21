@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # music-player
 <video width="320" height="240" controls>
-  <source src="music-player/music.mp4" type="video/mp4">
+  <source src="music.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
