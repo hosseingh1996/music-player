@@ -1,4 +1,4 @@
 <<<<<<< HEAD
 # music-player
-<video src= "music.mp4" controls width="800"></video>
+<video src= "music.mp4" controls width="600"></video>
 
