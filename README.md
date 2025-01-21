@@ -1,1 +1,1 @@
-<video src= music.mp4" controls width="800"></video>
+<video src= "music-player/music.mp4" controls width="800"></video>
