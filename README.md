@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 # music-player
-<video src= "music.mp4" controls width="600"></video>
+# Movie
+[wath the video](music.mp4)
 
